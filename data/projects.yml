@@ -1,0 +1,6 @@
+name: Projects
+source:
+  - icon: fa fa-desktop
+    title: Birth of Planet Earth
+    link: https://github.com/mohammedafzel/BirthOfPlanetEarth
+    description: Graphical visualization of how planet earth was formed from asteroids.
