@@ -1,4 +1,4 @@
-baseurl = "https://mohammedafzel.github.io/"
+baseurl = "https://mohammedafzel.github.io/mohammedafzel/"
 languageCode = "en-US"
 publishDir = "docs"
 title = "Mohammed Afzel"
