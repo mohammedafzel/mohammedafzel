@@ -5,7 +5,7 @@ source:
     link: https://github.com/mohammedafzel/BirthOfPlanetEarth
     description: Graphical visualization of how planet earth was formed from asteroids.
     
-    - icon: fa fa-android
-    title: Birth of Planet Earth
+  - icon: fa fa-android
+    title: Malayalam
     link: https://github.com/mohammedafzel/Malayalam
     description: An Android app which helps beginners to learn simple malayalam words, phrases with proper pronunciation.
