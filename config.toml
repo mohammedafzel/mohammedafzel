@@ -15,6 +15,8 @@ theme = "sustain"
   avatar = "profile.png"
   author = "Mohammed Afzel"
   description = "Hey there, this is my personal website"
+  bio = "I build and maintain front-end and backend systems. Designed & developed membership websites, eCommerce websites, and customer web portals."
+
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -23,7 +25,7 @@ theme = "sustain"
 [params.social]
   Github        = "mohammedafzel"
   Email         = "er.mohammed.afzel@gmail.com"
-  Twitter       = "M_Afzel"
+  Twitter       = "mohammed_afzel"
   LinkedIn      = "mohammedafzel"
 
 ## Main Menu
@@ -37,3 +39,8 @@ theme = "sustain"
   identifier = "projects"
   weight = 200
   url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 200
+  url = "/resume/web_developer.pdf"

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mohammed Afzel</title>
@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Mohammed Afzel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="http://mohammedafzel.github.io/mohammedafzel/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
+      <title>projects</title>
+      <link>http://mohammedafzel.github.io/mohammedafzel/tags/projects/</link>
+      <pubDate>Fri, 10 Jan 2020 22:55:05 -0400</pubDate>
+      
+      <guid>http://mohammedafzel.github.io/mohammedafzel/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
       <link>http://mohammedafzel.github.io/mohammedafzel/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Go</title>
+      <title>go</title>
       <link>http://mohammedafzel.github.io/mohammedafzel/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -30,7 +39,7 @@
     </item>
     
     <item>
-      <title>Golang</title>
+      <title>golang</title>
       <link>http://mohammedafzel.github.io/mohammedafzel/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -39,38 +48,11 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>http://mohammedafzel.github.io/mohammedafzel/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://mohammedafzel.github.io/mohammedafzel/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/tags/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>http://mohammedafzel.github.io/mohammedafzel/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://mohammedafzel.github.io/mohammedafzel/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://mohammedafzel.github.io/mohammedafzel/tags/themes/</guid>
       <description></description>
     </item>
     

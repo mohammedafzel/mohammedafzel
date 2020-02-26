@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mohammed Afzel</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Mohammed Afzel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="http://mohammedafzel.github.io/mohammedafzel/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Projects</title>
       <link>http://mohammedafzel.github.io/mohammedafzel/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Fri, 10 Jan 2020 22:55:05 -0400</pubDate>
       
       <guid>http://mohammedafzel.github.io/mohammedafzel/projects/</guid>
       <description></description>
