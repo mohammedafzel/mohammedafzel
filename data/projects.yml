@@ -1,21 +1,21 @@
 name: Projects
 source:
-  - icon: fa fa-desktop
+  - icon: fa fa-globe
     title: Infant Stimuli
     link: https://www.infantstimuli.com
     description: A right brain-based education system for accelerated mental, physical, and emotional development in children from birth through to the first three years of life. A video subscription website with payment gateway, designed and developed using Laravel Framework. Owned by American Health Innovations LLC, UAE.
 
-  - icon: fa fa-desktop
+  - icon: fa fa-globe
     title: Medicure Group
     link: http://www.medicuregroup.com
     description: A group of clinics and pharmacies situated in Dubai, UAE. A static website which is developed using PHP language.
 
-  - icon: fa fa-desktop
-    title: Birth of Planet Earth
-    link: https://github.com/mohammedafzel/BirthOfPlanetEarth
-    description: Graphical visualization of how planet earth was formed from asteroids.
-    
   - icon: fa fa-android
     title: Malayalam
     link: https://github.com/mohammedafzel/Malayalam
     description: An Android app which helps beginners to learn simple malayalam words, phrases with proper pronunciation.
+    
+  - icon: fa fa-desktop
+    title: Birth of Planet Earth
+    link: https://github.com/mohammedafzel/BirthOfPlanetEarth
+    description: Graphical visualization of how planet earth was formed from asteroids.
