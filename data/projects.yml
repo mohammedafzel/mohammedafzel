@@ -1,11 +1,11 @@
 name: Projects
 source:
-  - icon: fa fa-web
+  - icon: fa fa-desktop
     title: Infant Stimuli
     link: https://www.infantstimuli.com
     description: A right brain-based education system for accelerated mental, physical, and emotional development in children from birth through to the first three years of life. A video subscription website with payment gateway, designed and developed using Laravel Framework. Owned by American Health Innovations LLC, UAE.
 
-  - icon: fa fa-web
+  - icon: fa fa-desktop
     title: Medicure Group
     link: http://www.medicuregroup.com
     description: A group of clinics and pharmacies situated in Dubai, UAE. A static website which is developed using PHP language.
