@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mohammed Afzel</title>
-    <link>http://mohammedafzel.github.io/mohammedafzel/categories/</link>
+    <link>https://mohammedafzel.github.io/mohammedafzel/categories/</link>
     <description>Recent content in Categories on Mohammed Afzel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 10 Jan 2020 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://mohammedafzel.github.io/mohammedafzel/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohammedafzel.github.io/mohammedafzel/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/categories/projects/</link>
+      <link>https://mohammedafzel.github.io/mohammedafzel/categories/projects/</link>
       <pubDate>Fri, 10 Jan 2020 22:55:05 -0400</pubDate>
       
-      <guid>http://mohammedafzel.github.io/mohammedafzel/categories/projects/</guid>
+      <guid>https://mohammedafzel.github.io/mohammedafzel/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/categories/development/</link>
+      <link>https://mohammedafzel.github.io/mohammedafzel/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedafzel.github.io/mohammedafzel/categories/development/</guid>
+      <guid>https://mohammedafzel.github.io/mohammedafzel/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://mohammedafzel.github.io/mohammedafzel/categories/golang/</link>
+      <link>https://mohammedafzel.github.io/mohammedafzel/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mohammedafzel.github.io/mohammedafzel/categories/golang/</guid>
+      <guid>https://mohammedafzel.github.io/mohammedafzel/categories/golang/</guid>
       <description></description>
     </item>
     

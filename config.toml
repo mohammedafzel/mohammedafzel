@@ -1,4 +1,4 @@
-baseurl = "http://mohammedafzel.github.io/mohammedafzel/"
+baseurl = "https://mohammedafzel.github.io/mohammedafzel/"
 languageCode = "en-US"
 publishDir = "docs"
 title = "Mohammed Afzel"
@@ -39,8 +39,3 @@ theme = "sustain"
   identifier = "projects"
   weight = 200
   url = "/projects/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 200
-  url = "/resume/web_developer.pdf"
