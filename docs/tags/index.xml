@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mohammed Afzel</title>
-    <link>https://mohammedafzel.github.io/mohammedafzel/tags/</link>
+    <link>http://mohammedafzel.ml/tags/</link>
     <description>Recent content in Tags on Mohammed Afzel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 10 Jan 2020 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://mohammedafzel.github.io/mohammedafzel/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohammedafzel.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>https://mohammedafzel.github.io/mohammedafzel/tags/projects/</link>
+      <link>http://mohammedafzel.ml/tags/projects/</link>
       <pubDate>Fri, 10 Jan 2020 22:55:05 -0400</pubDate>
       
-      <guid>https://mohammedafzel.github.io/mohammedafzel/tags/projects/</guid>
+      <guid>http://mohammedafzel.ml/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://mohammedafzel.github.io/mohammedafzel/tags/development/</link>
+      <link>http://mohammedafzel.ml/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedafzel.github.io/mohammedafzel/tags/development/</guid>
+      <guid>http://mohammedafzel.ml/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://mohammedafzel.github.io/mohammedafzel/tags/go/</link>
+      <link>http://mohammedafzel.ml/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedafzel.github.io/mohammedafzel/tags/go/</guid>
+      <guid>http://mohammedafzel.ml/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://mohammedafzel.github.io/mohammedafzel/tags/golang/</link>
+      <link>http://mohammedafzel.ml/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedafzel.github.io/mohammedafzel/tags/golang/</guid>
+      <guid>http://mohammedafzel.ml/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://mohammedafzel.github.io/mohammedafzel/tags/hugo/</link>
+      <link>http://mohammedafzel.ml/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedafzel.github.io/mohammedafzel/tags/hugo/</guid>
+      <guid>http://mohammedafzel.ml/tags/hugo/</guid>
       <description></description>
     </item>
     
